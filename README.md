@@ -1,1 +1,1 @@
-Üniversite dersleri ile alakalıdır.
+Üniversitedeki Wb Uygulamları dersiile alakalıdır.
