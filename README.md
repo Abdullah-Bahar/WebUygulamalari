@@ -1,1 +1,1 @@
-# WebUygulamalari
+Üniversite dersleri ile alakalıdır.
