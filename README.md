@@ -1,1 +1,1 @@
-Üniversitedeki Wb Uygulamları dersiile alakalıdır.
+Üniversitedeki Web Uygulamları dersiile alakalıdır.
